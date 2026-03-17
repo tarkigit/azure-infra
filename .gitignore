@@ -1,0 +1,3 @@
+# Bicep compiled ARM JSON output
+main.json
+modules/**/*.json
